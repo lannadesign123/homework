@@ -1,0 +1,5 @@
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.csproj.AssemblyReference.cache
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.AssemblyInfoInputs.cache
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.AssemblyInfo.cs
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.csproj.CoreCompileInputs.cache
