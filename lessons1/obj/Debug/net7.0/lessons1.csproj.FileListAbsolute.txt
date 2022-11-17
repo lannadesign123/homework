@@ -3,3 +3,13 @@ C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.GeneratedMSBuildEditorCon
 C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.AssemblyInfoInputs.cache
 C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.AssemblyInfo.cs
 C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.csproj.CoreCompileInputs.cache
+C:\git\HOME WORK C#\lessons1\bin\Debug\net7.0\lessons1.exe
+C:\git\HOME WORK C#\lessons1\bin\Debug\net7.0\lessons1.deps.json
+C:\git\HOME WORK C#\lessons1\bin\Debug\net7.0\lessons1.runtimeconfig.json
+C:\git\HOME WORK C#\lessons1\bin\Debug\net7.0\lessons1.dll
+C:\git\HOME WORK C#\lessons1\bin\Debug\net7.0\lessons1.pdb
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.dll
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\refint\lessons1.dll
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.pdb
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\lessons1.genruntimeconfig.cache
+C:\git\HOME WORK C#\lessons1\obj\Debug\net7.0\ref\lessons1.dll
